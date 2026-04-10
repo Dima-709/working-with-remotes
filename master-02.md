@@ -1,1 +1,1 @@
-This is second fail in branch master.
+This is second file in branch master.
